@@ -1,4 +1,4 @@
-## H1 - ETH balance from Swapper contract can be stolen
+## M1 - ETH balance from Swapper contract can be stolen
 
 ## Summary
 Users can erroneously send ETH to Swapper contract and due to a lack of validation of the parameter `socketData` in `Swapper::swap` it can be manipulated to exchange Swapper Contract ETH balance for EXA and send to the attacker.
