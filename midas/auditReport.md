@@ -13,7 +13,8 @@ GREEN: Does have gaps but all of them are from the openzeppelin library
 
 YELLOW: Does not have gaps, all of them are fom the protocol.
 
-CHARt!!
+![335198763-422402f6-1b0b-405e-9b36-38d677cdd688](https://github.com/nfmelendez/nfmelendez/assets/726950/38696268-0e1f-4582-a793-eeb913561687)
+
 
 MidasAccessControl is the only important contract that doeesn't have gaps as we can see in the table:
 
