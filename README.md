@@ -6,6 +6,7 @@ To  contact me, [**@nfmelendez**](https://twitter.com/nfmelendez) on twitter
 
 | Contest           |      Date          | Platform       | Report  |
 |-------------------|--------------------|----------------|---------|
+|  [Size](https://code4rena.com/audits/2024-06-size)                   | Ago 2024  | code4rena       |  1 High found - Non public       |
 |  [Thorchain](https://code4rena.com/audits/2024-06-thorchain)                   | july 2024  | code4rena       |  [link](https://github.com/nfmelendez/nfmelendez/blob/main/thorchain/auditReport.md)        |
 |  [Tokensoft](https://audits.sherlock.xyz/contests/285)                   | June 2024  | Sherlock       |  [link](https://github.com/nfmelendez/nfmelendez/blob/main/tokensoft/auditReport.md)        |
 |  [Midas](https://audits.sherlock.xyz/contests/332)                   | May 2024  | Sherlock       |  [link](https://github.com/nfmelendez/nfmelendez/blob/main/midas/auditReport.md)        |
