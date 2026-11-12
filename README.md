@@ -1,6 +1,6 @@
 # Security Portfolio - nfmelendez
 
-T  contact me, [**@nfmelendez**](https://twitter.com/nfmelendez) on twitter
+Contact me: [**@nfmelendez**](https://twitter.com/nfmelendez) on twitter
 
 ## 🔎 Competitive Smart Contract Audits 
 
